@@ -4,11 +4,12 @@
 </p>
 
 ---
-## 🌱 Desenvolvedora Fullstack e Estudante de Análise e Desenvolvimento de Sistemas
-Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, movido(a) pela curiosidade e pela vontade de aprender continuamente. Meu objetivo é transformar ideias inovadoras em projetos práticos, criativos e de alto impacto, unindo código limpo, design funcional e soluções que fazem a diferença!
+## 🌱 Fullstack Developer and Systems Analysis and Development Student
+I'm a passionate developer driven by curiosity and a continuous desire to learn. My goal is to transform innovative ideas into practical, creative, and high-impact projects, combining clean code, functional design, and solutions that make a difference!
+
 
 ---
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
@@ -27,7 +28,7 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, movido(a) pela curiosid
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domiis&layout=compact&theme=radical&hide_border=true" />
